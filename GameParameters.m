@@ -64,6 +64,8 @@ objDetectorOffset = [0 0];
 objDetectorAngle = 0;
 objDetectorFOV = pi;
 objDetectorRange = 10;
+
+playerIdx = (0:8);
 %color      
 objColors = [0 0.75 0;%ball
              1 0 0;%hgp
