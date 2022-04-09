@@ -21,7 +21,7 @@ homeGoalPosition = [fieldLimitsX(1) mean(fieldLimitsY)];
 %Position of the Away Goal
 awayGoalPosition = [fieldLimitsX(2) mean(fieldLimitsY)];
 %% Simulation Parameters
-sampleTime = 0.5;
+sampleTime = 0.1;
 
 % Robot definitions and dimensions
 numPlayers = 8;
